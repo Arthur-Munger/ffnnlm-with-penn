@@ -1,2 +1,2 @@
 # ffnnlm-with-penn
-比较有用的代码
+reuse.py里是感觉可复用性比较强的代码。
